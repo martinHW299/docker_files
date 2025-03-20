@@ -12,3 +12,9 @@ docker compose -f docker-compose.yaml up
 ```bash
 docker compose up -d
 ```
+```bash
+docker compose stop
+docker compose start
+
+docker ps
+```
